@@ -1,0 +1,8 @@
+c:\users\kerem\onedrive\belgeler\visual studio 2015\Projects\SeleniumThirdProject\SeleniumThirdProject\bin\Debug\SeleniumThirdProject.exe.config
+c:\users\kerem\onedrive\belgeler\visual studio 2015\Projects\SeleniumThirdProject\SeleniumThirdProject\bin\Debug\SeleniumThirdProject.exe
+c:\users\kerem\onedrive\belgeler\visual studio 2015\Projects\SeleniumThirdProject\SeleniumThirdProject\bin\Debug\SeleniumThirdProject.pdb
+c:\users\kerem\onedrive\belgeler\visual studio 2015\Projects\SeleniumThirdProject\SeleniumThirdProject\bin\Debug\WebDriver.dll
+c:\users\kerem\onedrive\belgeler\visual studio 2015\Projects\SeleniumThirdProject\SeleniumThirdProject\bin\Debug\WebDriver.xml
+c:\users\kerem\onedrive\belgeler\visual studio 2015\Projects\SeleniumThirdProject\SeleniumThirdProject\obj\Debug\SeleniumThirdProject.csprojResolveAssemblyReference.cache
+c:\users\kerem\onedrive\belgeler\visual studio 2015\Projects\SeleniumThirdProject\SeleniumThirdProject\obj\Debug\SeleniumThirdProject.exe
+c:\users\kerem\onedrive\belgeler\visual studio 2015\Projects\SeleniumThirdProject\SeleniumThirdProject\obj\Debug\SeleniumThirdProject.pdb
